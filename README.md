@@ -1,5 +1,5 @@
 # Practical Reactor workshop
-
+Miguel Canton's version
 Welcome to practical Project Reactor and reactive programming workshop! Over 100 unique exercises provide production like experience and possibility improve existing skills by teaching best practices for building a reactive applications.
 
 ![Project Reactor](img/reactor.gif)
